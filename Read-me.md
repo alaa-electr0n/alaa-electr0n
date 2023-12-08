@@ -7,7 +7,7 @@
   <h3>🚀 About ME</h3> 
   <p>I'm a passionate Junior Web Developer with a keen interest in UX/UI Design and Python. I used to work as <strong> SEO </strong>who optimize any website to meet Google, Bing, Yandex and many more Search Engines criteria and algorithms updates.  Currently, I'm enhancing my skills in HTML, CSS, JavaScript, and React.
 </p>
-<p>🌱 I’m currently learning <strong>JS, React</strong> and <stron>Advanced Python For Web development.</stron></p>
+<p>🌱 I’m currently learning <strong>JS, React</strong> and <strong>Advanced Python For Web development.</strong></p>
   
 </div>
 
@@ -15,7 +15,7 @@
 <div> <a href="https://github.com/alaa-electr0n" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@electron101" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="@electron101" height="30" width="40" /></a></p>
+<a href="https://codepen.io/electron101" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="@electron101" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
