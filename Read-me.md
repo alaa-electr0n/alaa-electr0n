@@ -1,13 +1,13 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Alaa Elsayed</h1>
-<h3 align="center">Senior Front End Web Developer</h3>
+<h3 align="center">Junior Front End Web Developer</h3>
 
-- 🌱 I’m currently learning **React, Js**
 <div>
   <h3>🚀 About ME</h3> 
   <p>I'm a passionate Junior Web Developer with a keen interest in UX/UI Design and Python. I used to work as SEO who optimize any website to meet Google, Bing, Yandex and many more Search Engines criteria and algorithms updates.  Currently, I'm enhancing my skills in HTML, CSS, JavaScript, and React.
 </p>
+<p>>- 🌱 I’m currently learning **React, Js**</p
 </div>
 
 
