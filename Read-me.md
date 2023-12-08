@@ -5,9 +5,10 @@
 
 <div>
   <h3>🚀 About ME</h3> 
-  <p>I'm a passionate Junior Web Developer with a keen interest in UX/UI Design and Python. I used to work as SEO who optimize any website to meet Google, Bing, Yandex and many more Search Engines criteria and algorithms updates.  Currently, I'm enhancing my skills in HTML, CSS, JavaScript, and React.
+  <p>I'm a passionate Junior Web Developer with a keen interest in UX/UI Design and Python. I used to work as <strong> SEO </strong>who optimize any website to meet Google, Bing, Yandex and many more Search Engines criteria and algorithms updates.  Currently, I'm enhancing my skills in HTML, CSS, JavaScript, and React.
 </p>
-<p>>- 🌱 I’m currently learning **React, Js**</p
+<p>🌱 I’m currently learning <strong>JS, React</strong> and <stron>Advanced Python For Web development.</stron></p>
+  
 </div>
 
 
